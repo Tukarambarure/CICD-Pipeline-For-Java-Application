@@ -1,4 +1,4 @@
-# CICD (Jenkins) Pipeline for Java Application
+# CICD Pipeline for Java Application
 
 End to end CICD (Jenkins) Pipeline for Java based application using Maven, SonarQube , Docker , Argo CD , Helm and Kubernetes
 
