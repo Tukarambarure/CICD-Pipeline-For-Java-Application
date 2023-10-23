@@ -2,4 +2,4 @@
 
 Jenkins Pipeline for Java based application using Maven, SonarQube, Argo CD, Helm and Kubernetes
 
-https://user-images.githubusercontent.com/43399466/228301952-abc02ca2-9942-4a67-8293-f76647b6f9d8.png
+![image](https://github.com/Tukarambarure/Java-Application-CICD-Pipeline/assets/95771731/14ab6d5f-ceab-4632-809f-ef34dadd04b3)
